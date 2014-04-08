@@ -1,0 +1,22 @@
+[
+  {
+    "common": [
+      {
+        "css": [
+          {"libs": ["bootstrap.css"]},
+          "app.css"
+        ],
+        "js": [
+          {"app": ["subapp.js"]},
+          {"libs": ["jquery.js", "lodash.js"]},
+          "app.js"
+        ]
+      }
+    ],
+    "en": [
+      {
+        "us": ["foo", "bar"]
+      }
+    ]
+  }
+]
