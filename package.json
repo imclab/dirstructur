@@ -1,7 +1,7 @@
 {
   "name": "dirstructur",
   "version": "0.0.1",
-  "description": "This Node script will help you quickly create your a directory structure using JSON.",
+  "description": "This Node script will help you quickly create a directory structure using JSON.",
   "main": "dirstructur.js",
   "repository": {
     "type": "git",
