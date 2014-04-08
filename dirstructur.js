@@ -46,13 +46,6 @@ function Dirstructur() {
                         console.log('path: ', path + '\n\n');
                         create_directory(path, key);
                         path = path + key + '/';
-                        // fs.readdir(path, function (err, files) {
-                        //     if (err) {
-                        //         return make_error(err, 'Error reading directoy:\n' + path);
-                        //     }
-                        //     console.log('Files:');
-                        //     console.log(files);
-                        // });
                     }
 
                     if (currItem != null && typeof currItem === 'object') {
