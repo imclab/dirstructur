@@ -1,4 +1,4 @@
-# dirstructur
+# dirstructur - IN PROGRESS
 
 This Node script will help you quickly create a directory structure using JSON.
 
